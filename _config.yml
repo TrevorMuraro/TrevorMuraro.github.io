@@ -17,7 +17,7 @@ title: "Hello. I'm Trevor Muraro."
 email: 'trevormuraro@gmail.com'
 description: "I'm an embedded and robotics engineer from Berkeley with experience in both software and hardware design.  I like exploring new fields and learning new skills."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://TrevorMuraro.github.io/TrevorMuraro" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://TrevorMuraro.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 'jamigibbs'
 github_username: 'TrevorMuraro'
 linkedin_username: 'trevor-muraro'
