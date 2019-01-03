@@ -4,7 +4,7 @@ position: left
 title: 'CeilingBot'
 date: 2018-12-12 16:45:00
 categories: development
-tags: ROS OpenCV
+tags: ROS OpenCV RaspberryPi Arduino
 featured_image: '/img/posts/04_ceilingbot.jpg'
 project_link: ''
 button_icon: ''
